@@ -1,3 +1,0 @@
-# VPS
-
-Groups iDeadev
